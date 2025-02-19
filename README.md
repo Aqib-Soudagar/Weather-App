@@ -1,0 +1,2 @@
+# Weather-App
+A weather app built with HTML, CSS, and JavaScript provides real-time updates on temperature, humidity, and wind speed. The app offers an interactive and user-friendly interface that ensures a smooth user experience, allowing users to easily check current weather conditions for different locations. It delivers accurate and fast weather information, making it a convenient tool for anyone looking to stay informed about current weather conditions.
