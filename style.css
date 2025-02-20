@@ -96,22 +96,29 @@ body{
     display: none;
 }
 @media(max-width: 500px){
+    .card{
+        padding: 40px 30px;
+    }
     .search input{
         height: 55px;
         width: 80%;
+        margin-right: 7px;
     }
     .search button{
         width: 55px;
         height: 55px;
     }
     .search button img{
-        width: 16px;
+        width: 17px;
     }
     .weather h1{
         font-size: 70px;
     }
     .weather h2{
         font-size: 40px;
+    }
+    .details{
+        padding: 0 8px;
     }
     .col img{
         width: 30px;
